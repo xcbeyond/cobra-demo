@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/xcbeyond/cobra-demo/cmd"
+import "cobra-demo/cmd"
 
 func main() {
 	cmd.Execute()
